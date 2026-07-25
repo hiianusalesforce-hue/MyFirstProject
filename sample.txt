@@ -1,1 +1,13 @@
-anu anu anu
+Go to your repo on GitHub
+Click the green "Code" button
+Make sure HTTPS is selected
+Copy the link shown there (looks like https://github.com/yourusername/reponame.git)
+Then in your terminal:
+bash
+
+git remote add origin https://github.com/yourusername/reponame.git
+
+Verify it got added:
+bash
+
+git remote -v
