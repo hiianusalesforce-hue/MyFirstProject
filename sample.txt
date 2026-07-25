@@ -11,3 +11,20 @@ Verify it got added:
 bash
 
 git remote -v
+
+----------------------
+
+ Whenever you make changes to your project, the usual Git workflow is:
+
+1. Make changes to your files
+
+2. git add .
+
+3. git commit -m "Describe your changes"
+
+4. git push origin main
+
+git add stages the changes.
+git commit saves those changes in your local repository.
+git push uploads your committed changes to GitHub.
+You only need to repeat these steps when you want to save and upload new changes. If you haven't made any changes, there's no need to commit or push.
