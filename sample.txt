@@ -12,7 +12,7 @@ bash
 
 git remote -v
 
-----------------------
+--------------------
 
  Whenever you make changes to your project, the usual Git workflow is:
 
