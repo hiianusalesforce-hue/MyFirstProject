@@ -27,7 +27,6 @@ git remote -v
 git add stages the changes.
 git commit saves those changes in your local repository.
 git push uploads your committed changes to GitHub.
-<<<<<<< HEAD
 You only need to repeat these steps when you want to save and upload new changes. If you haven't made any changes, there's no need to commit or push.
 
 
@@ -51,6 +50,3 @@ It downloads all the latest updates from the remote repository, including:
  
 
 It only updates your local repository's remote-tracking information. It does not merge the changes into your current branch.
-=======
-You only need to repeat these steps when you want to save and upload new changes. If you haven't made any changes, there's no need to commit or push.
->>>>>>> parent of 0a9b935 (commit)
